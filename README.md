@@ -1,16 +1,49 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Manan Pandya</h1>
+<h3 align="center">A passionate Full Stack developer and Android Developer</h3>
 
-<!--
-**mrpandya/mrpandya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrpandya&label=Profile%20views&color=8ac7eb&style=flat-square" alt="mrpandya" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://twitter.com/kadhaipanneer" target="blank"><img src="https://img.shields.io/twitter/follow/kadhaipanneer?logo=twitter&style=for-the-badge" alt="mrpandya" /></a> </p>
+
+- 🔭 I’m currently working with **Django Rest Framework**
+
+- 🌱 I’m currently learning **NoSQL Databases**
+
+- 👨‍💻 All of my projects are available at [https://github.com/mrpandya](https://github.com/mrpandya)
+
+- 💬 Ask me about **RESTful API, DATABASES [SQL and NoSQL]**
+
+- 📫 How to reach me **mrpandya2017@gmail.com**
+- 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kadhaipanneer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrpandya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manan-pandya-435215192" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mrpandya" height="30" width="40" /></a>
+<a href="https://instagram.com/_mananpandya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mrpandya/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/MobileAppDevelopment/android.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/Devops/bash.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/ProgrammingLanguages/c.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/ProgrammingLanguages/cpp.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/FrontendDevelopment/css.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/MobileAppDevelopment/dart.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/Framework/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/BackendDevelopment/express.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/BaaS/firebase.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/MobileAppDevelopment/flutter.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/Other/git.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/BaaS/heroku.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/FrontendDevelopment/html.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/Other/linux.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/Database/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/Database/mysql.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/BackendDevelopment/nginx.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/Database/postgresql.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/Software/postman.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/FrontendDevelopment/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/FrontendDevelopment/reactjs.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/MobileAppDevelopment/reactnative.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/FrontendDevelopment/sass.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/Database/sqlite.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/Devops/travisci.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/ProgrammingLanguages/typescript.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/GameEngines/unity.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/FrontendDevelopment/vuejs.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/StaticSiteGenerators/vuepress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e6d2cdb5a7df133c725fad507febecfb8f8a9073/src/images/icons/Automation/zapier.svg" alt="zapier" width="40" height="40"/> </a> </p>
+
+<h2 align="center">GitHub Statics</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bravo68web&show_icons=true&theme=merko&layout=compact" alt="bravo68web" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bravo68web&show_icons=true&theme=dracula" alt="bravo68web" /> <br><br><br><br></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/bravo68web"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bravo68web" /></a></p><br><br>
+
+<p><h2 align="left"><br><br><br><br>Wakatime Daily Statics</h2></p>
+
+<!--START_SECTION:waka-->
+```text
+Bash         7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.95 % 
+JavaScript   4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+JSON         4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Markdown     3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Git Config   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+```
+<!--END_SECTION:waka-->
+
