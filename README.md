@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrpandya](https://github.com/mrpandya)
 
-- 💬 Ask me about **RESTful API, DATABASES [SQL and NoSQL]**
-
 - 📫 How to reach me **mrpandya2017@gmail.com**
 
 
