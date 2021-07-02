@@ -4,7 +4,7 @@
 
 <br>
 
-<h3 align="center">A passionate Full Stack developer and Android Developer</h3>
+<h3 align="center">A Software Developer || Back-End Developer || Full Stack developer || Android Developer (Flutter)</h3>
 
 <br><br>
 
