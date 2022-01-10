@@ -12,7 +12,7 @@
 
 - 🔭 &nbsp; I’m currently Exploring new technologies and developing software solutions and quick hacks.
 
-- 🌱 &nbsp; I’m currently writing my own technical blog.
+- 🌱 &nbsp; I’m currently writing a technical blog.
 
 - 👨‍💻 &nbsp; All of my projects are available at <a href="https://github.com/mrpandya">:octocat:</a>
 
