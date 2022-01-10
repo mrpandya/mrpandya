@@ -1,18 +1,18 @@
-<h2> Hey there! I'm Manan. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h2> Hey there! I'm Manan.  :wave:</h2>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
 
 <br>
 
 <h3 align="center">A Software Developer || Back-End Developer || Full Stack developer || Android Developer (Flutter)</h3>
 
-<br><br>
+<br>
 
 - 🎓 &nbsp; Studying **Computer Science**
 
 - 🔭 &nbsp; I’m currently Exploring new technologies and developing software solutions and quick hacks.
 
-- 🌱 &nbsp; I’m currently learning **Data Science**
+- 🌱 &nbsp; I’m currently writing my own technical blog.
 
 - 👨‍💻 &nbsp; All of my projects are available at <a href="https://github.com/mrpandya">:octocat:</a>
 
