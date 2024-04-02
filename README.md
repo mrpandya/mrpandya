@@ -4,7 +4,7 @@
 
 <br>
 
-<h3 align="center">A Software Developer || Back-End Developer || Full Stack developer || Android Developer (Flutter)</h3>
+<h3 align="center">Tech Lead | Building technologies for a healthier, happier future</h3>
 
 <br>
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 &nbsp; All of my projects are available at <a href="https://github.com/mrpandya">:octocat:</a>
 
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
 
